@@ -13,6 +13,12 @@ Interested in the personal development of
 herself as a front-end developer,   
 I would like to be a senior and also will
 relocate to big city. I really keen on coding and want to work developer.  
+Also i have thinks about full-stack and it will be one more my goal when
+i become a good front-end developer.  
+I have the character of an idealist
+and the my motto is:   
+>"if you started - go to the end, otherwise why did you
+>start?".  
  
 ## Technologies
 * JavaScript
