@@ -51,8 +51,10 @@ Decimal to binary converter:
   }
   return `${binary}`;
 };
-```
+```  
+
 Rearrange Number to Get its Maximum:  
+
 ```
 var maxRedigit = function(num) {
     if (num <= 0 || `${num}`.length != 3) {
@@ -65,9 +67,12 @@ var maxRedigit = function(num) {
     });
     return +(sort.join(''));
   };
-```
-[and more you can see in my codewars account, click here](https://www.codewars.com/users/Dmitriy-hello-world/completed_solutions)  
+```  
+
+[and more you can see in my codewars account, click here](https://www.codewars.com/users/Dmitriy-hello-world/completed_solutions)    
+
 ## Work experience  
+  
 1) **LANDING PAGE**  
 **Stack:** JavaScript (native JS, fetch API), HTML5+CSS3, Adaptive and
 responsive markup, Gulp, Webpack, PHP(phpMailer).  
