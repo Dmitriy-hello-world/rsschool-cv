@@ -1,11 +1,11 @@
-## Dmitriy Nikitenko
-# Front-end JavaScript Developer  
+# Dmitriy Nikitenko
+Front-end JavaScript Developer  
 ## Contacts:
 * Phone: +38 (067) 561-1680  
 * Email: easportstng@gmail.com  
 * Github: https://github.com/Dmitriy-hello-world  
 ## About me
-Hello, I'm Dmitry from Ukraine(21 y.o.). I'm a student of the 3rd course.  
+Hello, I'm Dmitry from Ukraine(21 y.o.). I'm a student of the 4rd course.  
 I have practical experience with creating landing pages and   
 active use JS (of course adaption for any devices), but unfortunately I still have not work
 experience in corporations.  
@@ -27,13 +27,12 @@ and the my motto is:
 * Ajax
 * Gulp
 * Webpack
-* Node.js(npm)
+* Node.js( work with npm)
 * HTML5 + CSS3, flexbox
-* grid
+* grid(adaptive)
 * SASS(SCSS)
 * Adaptive and responsive markup
 * Bootstrap
-* SQL
 * Git
 ## Code example
 Decimal to binary converter:  
