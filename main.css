@@ -51,6 +51,14 @@
     line-height: 35px;
 }
 
+.article__header {
+    margin: 0 0 5px 0;
+    background: rgba(196, 196, 196, 0.35);
+    border-radius: 10px;
+    padding: 7px;
+    width: 140px;
+}
+
 .contacts {
     margin-top: 30px;
 }
@@ -389,7 +397,7 @@ mark {
 }
 
 .footer__list {
-    margin-top: 30px;
+    margin-top: 60px;
     list-style-type: none;
     padding: 0;
     display: flex;
